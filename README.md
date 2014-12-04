@@ -31,7 +31,7 @@ Return：
 ###Fastq格式
 标准read存储格式。更多内容参考[wiki](http://en.wikipedia.org/wiki/FASTQ_format)
 
-*实例:**
+**实例:**
 
 说明|实例  
 ------| -------
