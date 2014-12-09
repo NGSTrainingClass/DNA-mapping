@@ -18,7 +18,7 @@ Return：
 ##3. 基于Hash表的比对算法
 !["Sequecing" ](./pic/sequencing.jpg )
 !["Index"](./pic/indexing.jpg )
-!["Mapping" ](./pic/mappping.jpg )
+!["Mapping" ](./pic/mapping.jpg )
 ##4. 数据格式
 ###Fasta格式
 标准genome和read存储格式。更多内容参考[wiki](http://en.wikipedia.org/wiki/FASTA_format)。
