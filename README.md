@@ -16,9 +16,9 @@ Return：
 >每个Read在Reference的最佳([海明距离][1]最小)比对位置，以**HIT**格式输出。
 
 ##3. 基于Hash表的比对算法
-!["Sequecing" ](./pic/1.svg )
-!["Index"](./pic/2.svg )
-!["Mapping" ](./pic/3.svg )
+!["Sequecing" ](./pic/sequencing.jpg )
+!["Index"](./pic/indexing.jpg )
+!["Mapping" ](./pic/mappping.jpg )
 ##4. 数据格式
 ###Fasta格式
 标准genome和read存储格式。更多内容参考[wiki](http://en.wikipedia.org/wiki/FASTA_format)。
